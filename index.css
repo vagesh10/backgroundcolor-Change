@@ -1,0 +1,47 @@
+.container{
+   
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-color: skyblue;
+}
+.button1{
+    background-color: blue;
+    height:8vh;
+    width:8dvb;
+    border-radius: 10px;
+    color:#ffffff;
+    border-color: #ffffff;
+}
+.button2{
+    background-color:pink;
+    height:8vh;
+    width:8dvb;
+    border-radius: 10px;
+    color:#ffffff;
+    border-color: #ffffff;
+}
+.button3{
+    background-color:red;
+    height:8vh;
+    width:8dvb;
+    border-radius: 10px;
+    color:#ffffff;
+    border-color: #ffffff;
+}
+.button4{
+    background-color:green;
+    height:8vh;
+    width:8dvb;
+    border-radius: 10px;
+    color:#ffffff;
+    border-color: #ffffff;
+}
+#selectCode{
+    color:#ffffff;
+}
+.head{
+    color:#ffffff;
+}
